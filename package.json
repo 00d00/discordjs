@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "0.0.0",
+  "description": "Discord.js v14 Template",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
